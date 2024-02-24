@@ -26,7 +26,7 @@ const ChannelManager = () => {
                                 Multi Channel Integration
                             </Typography>
                             <Typography variant="body2">
-                                "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore.
+                                Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore.
                             </Typography>
                         </CardContent>
                     </Card>
@@ -41,7 +41,7 @@ const ChannelManager = () => {
                                 Multi Channel Integration
                             </Typography>
                             <Typography variant="body2">
-                                "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore.
+                                Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore.
                             </Typography>
                         </CardContent>
                     </Card>
@@ -58,7 +58,7 @@ const ChannelManager = () => {
                                 Manage Prices & inventory
                             </Typography>
                             <Typography variant="body2">
-                                "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore.
+                                Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore.
                             </Typography>
                         </CardContent>
                     </Card>
@@ -73,7 +73,7 @@ const ChannelManager = () => {
                                 Manage Channels Bookings
                             </Typography>
                             <Typography variant="body2">
-                                "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore.
+                                Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore.
                             </Typography>
                         </CardContent>
                     </Card>

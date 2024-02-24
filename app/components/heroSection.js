@@ -3,6 +3,7 @@ import { AppBar, Box, Button, Container, Tab, Tabs, Toolbar, Typography } from "
 import ArrowDropDownIcon from '@mui/icons-material/ArrowDropDown';
 import ChevronRightOutlinedIcon from '@mui/icons-material/ChevronRightOutlined';
 import NavBar from './nav';
+import Image from 'next/image';
 const HeroSection = () => {
   return (
     <>
@@ -30,7 +31,7 @@ const HeroSection = () => {
             </Box>
           </Box>
           <Box sx={{ display: { xs: 'none', md: 'block' } }}>
-            <img src="/login-hero.svg" alt="Login Hero" width="400" height="400" />
+            <Image src="/login-hero.svg" alt="Login Hero" width="400" height="400" />
           </Box>
         </Box>
       </Box>

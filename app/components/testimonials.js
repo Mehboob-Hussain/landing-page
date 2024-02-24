@@ -16,7 +16,7 @@ const Testimonials = () => {
                     <Card sx={{ maxWidth: 290, height: 200, borderTopLeftRadius: '50px', borderBottomRightRadius: '50px', backgroundColor: '#FFCAD4', py: '2rem' }}>
                         <CardContent>
                             <Typography variant="body2">
-                                "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore.
+                                Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore.
                             </Typography>
                             <Box sx={{ display: 'flex', gap: '8px', py: '2rem' }}>
                                 <Avatar alt="Remy Sharp" src="/myimg.jpeg" />
@@ -37,7 +37,7 @@ const Testimonials = () => {
                     <Card sx={{ maxWidth: 290, height: 200, borderTopLeftRadius: '50px', borderBottomRightRadius: '50px', backgroundColor: '#FFCAD4', py: '2rem' }}>
                         <CardContent>
                             <Typography variant="body2">
-                                "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore.
+                                Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore.
                             </Typography>
                             <Box sx={{ display: 'flex', gap: '8px', py: '2rem' }}>
                                 <Avatar alt="Remy Sharp" src="/myimg.jpeg" />
@@ -57,7 +57,7 @@ const Testimonials = () => {
                     <Card sx={{ maxWidth: 290, height: 200, borderTopLeftRadius: '50px', borderBottomRightRadius: '50px', backgroundColor: '#FFCAD4', py: '2rem' }}>
                         <CardContent>
                             <Typography variant="body2">
-                                "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore.
+                                Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore.
                             </Typography>
                             <Box sx={{ display: 'flex', gap: '8px', py: '2rem' }}>
                                 <Avatar alt="Remy Sharp" src="/myimg.jpeg" />
